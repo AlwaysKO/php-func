@@ -3,6 +3,7 @@
     "homepage": "https://github.com/AlwaysKO/php-func",
     "type": "library",
     "license": "MIT",
+    "version":"1.0",
     "authors": [
         {
             "name": "pj",
