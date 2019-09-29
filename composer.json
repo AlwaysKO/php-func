@@ -1,0 +1,22 @@
+{
+    "name": "alwaysko/php-func",
+    "homepage": "https://github.com/AlwaysKO/php-func",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pj",
+            "email": "pengjun@yihaohulia.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "alwaysKo\\phpFunc\\": "src"
+        }
+    },
+    "require": {}
+}
