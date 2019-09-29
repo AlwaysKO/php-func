@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "alwaysKo\\phpFunc\\": "src"
+            "alwaysKo\\phpFunc\\": "src/"
         }
     },
     "require": {}
